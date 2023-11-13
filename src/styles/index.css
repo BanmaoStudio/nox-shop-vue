@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    @apply bg-light-100;
+}
+
+html, body, #app {
+    min-height: 100vh;
+}

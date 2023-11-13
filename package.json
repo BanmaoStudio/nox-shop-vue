@@ -1,0 +1,37 @@
+{
+  "name": "shop-admin",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@iconify/vue": "^4.1.1",
+    "@vueuse/core": "^10.5.0",
+    "@vueuse/integrations": "^10.5.0",
+    "axios": "^1.5.1",
+    "echarts": "^5.4.3",
+    "gsap": "^3.12.2",
+    "naive-ui": "^2.35.0",
+    "pinia": "^2.1.7",
+    "universal-cookie": "^6.1.1",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@unocss/transformer-directives": "^0.57.1",
+    "@vicons/antd": "^0.12.0",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@vitejs/plugin-vue-jsx": "^3.0.2",
+    "sass": "^1.69.5",
+    "unocss": "^0.57.1",
+    "unplugin-auto-import": "^0.16.6",
+    "unplugin-icons": "^0.17.3",
+    "unplugin-vue-components": "^0.25.2",
+    "vfonts": "^0.0.3",
+    "vite": "^4.4.5"
+  }
+}
